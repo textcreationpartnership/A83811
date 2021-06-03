@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions propounded to the Assembly of Divines by the House of Commons, April ult. 1646. Touching the point of jus divinum in the matter of church-government. Ordered by the Commons assembled in Parliament, that these questions be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83811</idno><idno type="EEBO-CITATION">99861439</idno>
+  <idno type="VID">113575</idno>
+  <idno type="EEBO-PROQUEST">2240870914</idno>
+  
+            <idno type="STC">Wing E2692</idno>
+            <idno type="STC">Thomason E335_11</idno>
+            <idno type="STC">ESTC R200786</idno>
+            <idno type="PROQUEST">99861439</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861439e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113575)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E335[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions propounded to the Assembly of Divines by the House of Commons, April ult. 1646. Touching the point of jus divinum in the matter of church-government. Ordered by the Commons assembled in Parliament, that these questions be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>May 4. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="meeting_name">Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113575:1"/>
+            <pb facs="tcp:113575:1"/>
+            <p> QVESTIONS Propounded to the Assembly of Divines By the House of COMMONS, <hi>April ult.</hi> 1646.</p>
+            <p>TOUCHING THE POINT OF <hi>JƲS DIVINƲM</hi> In the matter of Church-Government.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>ORdered by the Commons assembled in Parliament, That these</hi> Questions <hi>be forthwith printed and published:</hi>
+                        </p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed for <hi>Edward Husband</hi> Printer to the Honorable House of Commons, May 4. 1646.</p>
+            <pb facs="tcp:113575:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="questions">
+            <pb n="3" facs="tcp:113575:2"/>
+            <head>QVESTIONS PROPOVNDED To the Assembly of Divines.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas it is Resolved by Both Houses, That all persons guilty of Noto<g ref="char:EOLhyphen"/>rious and Scandalous Of<g ref="char:EOLhyphen"/>fences shall be suspended from the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper, The House of Commons desires to be satisfied by the Assembly of Divines in these questions following:</p>
+            <div n="1" type="question">
+               <head>I.</head>
+               <p>VVHether the Parochial and Congregational Elderships appointed by Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, or any other Congregational or Presbyterial Elderships are <hi>Jure</hi>
+                  <pb n="4" facs="tcp:113575:3"/>
+                  <hi>Divino,</hi> and by the will and appoint<g ref="char:EOLhyphen"/>ment of Iesus Christ? And whether any particular Church-Government be <hi>Jure Divino?</hi> And what that Go<g ref="char:EOLhyphen"/>vernment is?</p>
+            </div>
+            <div n="2" type="question">
+               <head>II.</head>
+               <p>VVhether all the Members of the said Elderships, as Members thereof, or which of them are <hi>Jure Divino,</hi> and by the will and appointment of Iesus Christ?</p>
+            </div>
+            <div n="3" type="question">
+               <head>III.</head>
+               <p>VVhether the superior Assemblies or Elderships, <hi>(viz.)</hi> the Classical, Provincial and National; whether all, or any of them, and which of them are <hi>Jure Divino,</hi> and by the will and appointment of Iesus Christ?</p>
+            </div>
+            <div n="4" type="question">
+               <head>IV.</head>
+               <p>VVhether Appeals from Congre<g ref="char:EOLhyphen"/>gational Elderships to the Classical,
+<pb n="5" facs="tcp:113575:3"/> Provincial and National Assemblies, or to any of them, and to which of them are <hi>Jure Divino,</hi> and by the will and appointment of Iesus Christ? And are their powers upon such Ap<g ref="char:EOLhyphen"/>peals <hi>Jure Divino,</hi> and by the will and appointment of Iesus Christ?</p>
+            </div>
+            <div n="5" type="question">
+               <head>V.</head>
+               <p>VVhether Oecumenical Assem<g ref="char:EOLhyphen"/>blies are <hi>Jure Divino?</hi> And whether there be Appeals from any of the former Assemblies to the said Oecu<g ref="char:EOLhyphen"/>menical <hi>Jure Divino,</hi> and by the will and appointment of Iesus Christ?</p>
+            </div>
+            <div n="6" type="question">
+               <head>VI.</head>
+               <p>VVhether by the word of God, the power of Iudging, and Declaring what are such Notorious and Scan<g ref="char:EOLhyphen"/>dalous Offences, for which persons guilty thereof are to be kept from the Sacrament of the Lords Supper, and
+<pb n="6" facs="tcp:113575:4"/> of conventing before them, trying, and actual suspending from the Sa<g ref="char:EOLhyphen"/>crament of the Lords Supper such Offenders accordingly, is either in the Congregational Eldership, or Presbytery, or in any other Elder<g ref="char:EOLhyphen"/>ship, Congregation or persons; and whether such powers are in them on<g ref="char:EOLhyphen"/>ly, or any of them, and in which of them <hi>Jure Divino,</hi> and by the will and appointment of Iesus Christ?</p>
+            </div>
+            <div n="7" type="question">
+               <head>VII.</head>
+               <p>VVhether there be any certain and particular Rules expressed in the word of God, to direct the Elderships or Presbyteries, Congregations or persons, or any of them, in the exer<g ref="char:EOLhyphen"/>cise and execution of the powers a<g ref="char:EOLhyphen"/>foresaid, and what are those Rules?</p>
+            </div>
+            <div n="8" type="question">
+               <head>VIII.</head>
+               <p>Is there any thing contained in the
+<pb n="7" facs="tcp:113575:4"/> word of God, that the Supreme Ma<g ref="char:EOLhyphen"/>gistracy in a Christian State may not judge and determine what are the aforesaid Notorious and Scandalous Offences, and the maner of Suspen<g ref="char:EOLhyphen"/>sion for the same; and in what parti<g ref="char:EOLhyphen"/>culars concerning the premises is the said Supreme Magistracy, by the word of God; excluded?</p>
+            </div>
+            <div n="9" type="question">
+               <head>IX.</head>
+               <p>VVhether the provision of Com<g ref="char:EOLhyphen"/>missioners to judge of Scandals not enumerated (as they are authorized by the Ordinance of Parliament) be contrary to that way of Government which Christ hath appointed in his Church; and wherein are they so contrary?</p>
+            </div>
+            <div n="10" type="question">
+               <head>X.</head>
+               <p>In answer to these particulars, the House of Commons desires of the
+<pb n="8" facs="tcp:113575:5"/> Assembly of Divines, their proofs from Scripture, and to set down the several Texts of Scripture in the ex<g ref="char:EOLhyphen"/>presse words of the same: And it is Ordered, That every particular Mi<g ref="char:EOLhyphen"/>nister of the Assembly of Divines, that is or shal be present at the Debate of any of these Questions, do upon every Resolution which shall be pre<g ref="char:EOLhyphen"/>sented to this House concerning the same, subscribe his respective Name, either with the Affirmative or Ne<g ref="char:EOLhyphen"/>gative as he gives his Vote; And that those that do Dissent from the major part shall set down their positive Opinions, with the expresse Texts of Scripture upon which their Opini<g ref="char:EOLhyphen"/>ons are grounded.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
